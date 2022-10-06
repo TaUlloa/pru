@@ -1,0 +1,98 @@
+[
+ {
+   "Message-ID": "Date",
+   "<18782981.1075855378110.JavaMail.evans@thyme>": " Mon, 14 May 2001 16",
+   "FIELD3": 39,
+   "FIELD4": "00 -0700 (PDT)"
+ },
+ {
+   "Message-ID": "From",
+   "<18782981.1075855378110.JavaMail.evans@thyme>": " phillip.allen@enron.com",
+   "FIELD3": null,
+   "FIELD4": ""
+ },
+ {
+   "Message-ID": "To",
+   "<18782981.1075855378110.JavaMail.evans@thyme>": " tim.belden@enron.com",
+   "FIELD3": null,
+   "FIELD4": ""
+ },
+ {
+   "Message-ID": "Subject",
+   "<18782981.1075855378110.JavaMail.evans@thyme>": " ",
+   "FIELD3": null,
+   "FIELD4": ""
+ },
+ {
+   "Message-ID": "Mime-Version",
+   "<18782981.1075855378110.JavaMail.evans@thyme>": " 1.0",
+   "FIELD3": null,
+   "FIELD4": ""
+ },
+ {
+   "Message-ID": "Content-Type",
+   "<18782981.1075855378110.JavaMail.evans@thyme>": " text/plain; charset=us-ascii",
+   "FIELD3": null,
+   "FIELD4": ""
+ },
+ {
+   "Message-ID": "Content-Transfer-Encoding",
+   "<18782981.1075855378110.JavaMail.evans@thyme>": " 7bit",
+   "FIELD3": null,
+   "FIELD4": ""
+ },
+ {
+   "Message-ID": "X-From",
+   "<18782981.1075855378110.JavaMail.evans@thyme>": " Phillip K Allen",
+   "FIELD3": null,
+   "FIELD4": ""
+ },
+ {
+   "Message-ID": "X-To",
+   "<18782981.1075855378110.JavaMail.evans@thyme>": " Tim Belden <Tim Belden/Enron@EnronXGate>",
+   "FIELD3": null,
+   "FIELD4": ""
+ },
+ {
+   "Message-ID": "X-cc",
+   "<18782981.1075855378110.JavaMail.evans@thyme>": " ",
+   "FIELD3": null,
+   "FIELD4": ""
+ },
+ {
+   "Message-ID": "X-bcc",
+   "<18782981.1075855378110.JavaMail.evans@thyme>": " ",
+   "FIELD3": null,
+   "FIELD4": ""
+ },
+ {
+   "Message-ID": "X-Folder",
+   "<18782981.1075855378110.JavaMail.evans@thyme>": " \\Phillip_Allen_Jan2002_1\\Allen, Phillip K.\\'Sent Mail",
+   "FIELD3": null,
+   "FIELD4": ""
+ },
+ {
+   "Message-ID": "X-Origin",
+   "<18782981.1075855378110.JavaMail.evans@thyme>": " Allen-P",
+   "FIELD3": null,
+   "FIELD4": ""
+ },
+ {
+   "Message-ID": "X-FileName",
+   "<18782981.1075855378110.JavaMail.evans@thyme>": " pallen (Non-Privileged).pst",
+   "FIELD3": null,
+   "FIELD4": ""
+ },
+ {
+   "Message-ID": "Here is our forecast",
+   "<18782981.1075855378110.JavaMail.evans@thyme>": "",
+   "FIELD3": null,
+   "FIELD4": ""
+ },
+ {
+   "Message-ID": " ",
+   "<18782981.1075855378110.JavaMail.evans@thyme>": "",
+   "FIELD3": null,
+   "FIELD4": ""
+ }
+]
